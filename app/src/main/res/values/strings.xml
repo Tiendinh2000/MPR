@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My friends</string>
+    <string name="tit">Friend list</string>
+    <string name="newfriend">New Friends</string>
+</resources>
